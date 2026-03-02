@@ -1,5 +1,7 @@
 # Astral Command
 
+I have converted coffee into this repository. If you think it was worth it, consider helping me buy more coffee: <a href="https://www.paypal.com/paypalme/llzektorll"> PayPal </a>
+
 Futuristic Obsidian theme collection with three distinct variants:
 - `Astra Command Blue`
 - `Astra Command Green`
