@@ -71,11 +71,6 @@ This repository is prepared as a source repository for the three variants.
 
 For Obsidian Community Themes, publish one variant at a time with that variant's `manifest.json` and `theme.css` at the repository root. The packaging workflow and submission checklist are documented in [`PUBLISHING.md`](./PUBLISHING.md).
 
-## Author
-
-- Author: `llZektorll`
-- URL: `https://github.com/llZektorll`
-
 ## License
 
 Released under the [MIT License](./LICENSE).
