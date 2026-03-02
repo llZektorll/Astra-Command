@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Obsidian
+.obsidian/
+
+# Editors
+.idea/
+.vscode/
+
+# Archives
+*.zip
+*.7z
+
