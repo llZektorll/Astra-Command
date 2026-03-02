@@ -59,7 +59,6 @@ Astral Command/
 │   ├── Astra Command Green/
 │   └── Astra Command Titanium/
 ├── CHANGELOG.md
-├── CONTRIBUTING.md
 ├── LICENSE
 ├── PUBLISHING.md
 └── README.md
