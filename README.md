@@ -1,7 +1,6 @@
 # Astral Command
 
 Futuristic Obsidian theme collection with three distinct variants:
-
 - `Astra Command Blue`
 - `Astra Command Green`
 - `Astra Command Titanium`
