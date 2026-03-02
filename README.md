@@ -59,7 +59,6 @@ Astral Command/
 │   └── Astra Command Titanium/
 ├── CHANGELOG.md
 ├── LICENSE
-├── PUBLISHING.md
 └── README.md
 ```
 
@@ -72,4 +71,3 @@ For Obsidian Community Themes, publish one variant at a time with that variant's
 ## License
 
 Released under the [MIT License](./LICENSE).
-
