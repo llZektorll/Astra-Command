@@ -11,15 +11,15 @@ Each variant is packaged as a standalone Obsidian theme inside [`themes/`](./the
 
 ### Astra Command Blue
 
-![Astra Command Blue preview](./assets/previews/astra-command-blue.png)
+![Astra Command Blue preview](../../assets/previews/astra-command-blue.png)
 
 ### Astra Command Green
 
-![Astra Command Green preview](./assets/previews/astra-command-green.png)
+![Astra Command Green preview](../../assets/previews/astra-command-green.png)
 
 ### Astra Command Titanium
 
-![Astra Command Titanium preview](./assets/previews/astra-command-titanium.png)
+![Astra Command Titanium preview](../../assets/previews/astra-command-titanium.png)
 
 ## Variants
 
